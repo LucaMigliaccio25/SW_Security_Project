@@ -15,7 +15,7 @@ precedentemente svolto potesse o meno cambiare in base al sistema utilizzato.
 ## Strumenti utilizzati
 - Docker: piattaforma di containerizzazione	utilizza per l'esecuzione isolata e portabile del tool FlashSyn
 - FlashSyn: tool di analisi per attacchi flash loan (ICSE 2024)
-- Python_ linguaggio utilzizato per l'analisi dei risultati
+- Python: linguaggio utilzizato per l'analisi dei risultati
 - Foundry: framework per smart contract	utilizzato per la validazione runtime degli attacchi sintetizzati
 - WSL (Ubuntu 22.04): ambiente di sviluppo compatibile con FlashSyn
 - MITRE ATT&CK Navigator:	tool per mappatura di minacce informatiche, utilizzato per la classificazione delle vulnerabilità a livello tattico
